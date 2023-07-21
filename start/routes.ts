@@ -74,3 +74,5 @@ Route.get('/check','InstallmentchecksController.installmentCheck')
 Route.get('/test','ExercisesController.test')
 
 Route.get('/user','ExercisesController.user')
+
+Route.get('/axiostest','AxiostestsController.test')
